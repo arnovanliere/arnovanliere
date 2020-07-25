@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/arnovanliere/count.svg" alt="Number of visits on my profile" />
+    <img src="https://raw.githubusercontent.com/arnovanliere/arnovanliere/master/banner.jpg" alt="Banner" />
 </p>
 
 <!--
