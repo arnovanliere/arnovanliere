@@ -1,4 +1,5 @@
-### Hi there 👋
+![Arno van Liere's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnovanliere&count_private=true&theme=dracula)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnovanliere)](https://github.com/arnovanliere/github-readme-stats)
 
 <!--
 **arnovanliere/arnovanliere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
